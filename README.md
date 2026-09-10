@@ -29,7 +29,31 @@ Company cars have their own rules based on list price and CO₂, not what the em
 
 Free, no sign-up, runs in your browser. Your figures are never sent anywhere.
 
-## Related calculators
+## Worked examples at real salaries
+
+Full deduction breakdowns, computed on 2026/27 rates:
+
+| Salary | Take-home a year | Take-home a month |
+|---|---:|---:|
+| [£40,000 after tax](https://truetakehome.co.uk/salary/40000/) | £32,319.60 | £2,693.30 |
+| [£60,000 after tax](https://truetakehome.co.uk/salary/60000/) | £45,357.40 | £3,779.78 |
+| [£80,000 after tax](https://truetakehome.co.uk/salary/80000/) | £56,957.40 | £4,746.45 |
+| [£100,000 after tax](https://truetakehome.co.uk/salary/100000/) | £68,557.40 | £5,713.12 |
+
+## Related tools
+
+- [Company car tax calculator](https://truetakehome.co.uk/company-car-tax-calculator/) — a company car has its own CO2-based calculation
+- [Tax code checker](https://truetakehome.co.uk/tax-code-checker/) — see why the benefit changed your code
+- [Employers NI calculator](https://truetakehome.co.uk/employer-cost-calculator/) — what the benefit costs your employer
+
+## Check the figures yourself
+
+- [UK tax rates and thresholds 2026/27](https://truetakehome.co.uk/tax-rates/2026-27/) — every band and threshold on one page
+- [Take-home pay statistics](https://truetakehome.co.uk/statistics/) — effective and marginal rates from £20,000 to £200,000, free to cite
+- [How the calculator works](https://truetakehome.co.uk/about/) — the order of calculation and the source for every rate
+- [rates.json](https://truetakehome.co.uk/rates.json) — the same figures as machine-readable JSON, no key required
+
+## Related calculators on GitHub
 
 - [Self-Employed Tax Calculator UK](https://github.com/HadiDevLabx/self-employed-tax-calculator-uk)
 - [Dividend Tax Calculator UK](https://github.com/HadiDevLabx/dividend-tax-calculator-uk)
